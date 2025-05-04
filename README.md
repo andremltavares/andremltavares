@@ -1,4 +1,4 @@
-# Olá! Eu sou o André Tavares 👋
+# Olá! Sou o André Tavares 👋
 
 🎓 Estudante apaixonado por tecnologia e desenvolvimento de software.  
 💻 Trabalho com **Python**, **C** e **JavaScript**.  
@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 Como entrar em contato
+## 📫 Redes Sociais
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andremltavares)
 
