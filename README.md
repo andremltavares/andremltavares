@@ -35,4 +35,4 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar o meu perfil!
