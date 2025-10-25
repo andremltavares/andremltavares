@@ -20,6 +20,9 @@
 ### 🎮 [Hangman Game (Python)](https://github.com/andremltavares/Jogo-da-Forca)  
 Terminal-based game with score tracking. **Skills:** OOP, file handling.  
 
+### 🏨 [Hotel Project (Python/Flask)](https://github.com/andremltavares/hotel-project)  
+Web app for managing hotel bookings and clients. **Skills:** Flask, HTML/CSS, CRUD operations, database handling.  
+
 🔜 *More projects coming soon!*  
 
 ---
@@ -40,4 +43,4 @@ Terminal-based game with score tracking. **Skills:** OOP, file handling.
 
 ---
 
-⭐ **Thanks for visiting!** *"Code is poetry."*  
+⭐ **Thanks for visiting!** *"Code is poetry."*
