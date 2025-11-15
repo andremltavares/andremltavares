@@ -15,7 +15,10 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
+
+### 🤖 [Digital Butler (Electron & Python)](https://github.com/andremltavares/mordomo-digital)
+Desktop app to find duplicates, categorize files, and clean up digital clutter. **(In Progress)**
 
 ### 🎮 [Hangman Game (Python)](https://github.com/andremltavares/Jogo-da-Forca)  
 Terminal-based game with score tracking. **Skills:** OOP, file handling.  
